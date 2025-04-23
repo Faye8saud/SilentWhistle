@@ -1,0 +1,6 @@
+openai-whisper
+opencv-python
+spacy
+ffmpeg-python
+fuzzywuzzy
+python-Levenshtein
